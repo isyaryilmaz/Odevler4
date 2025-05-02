@@ -1,0 +1,16 @@
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\bin\Debug\net8.0-windows\KisiselBilgiDogrulama.exe
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\bin\Debug\net8.0-windows\KisiselBilgiDogrulama.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\bin\Debug\net8.0-windows\KisiselBilgiDogrulama.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\bin\Debug\net8.0-windows\KisiselBilgiDogrulama.dll
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\bin\Debug\net8.0-windows\KisiselBilgiDogrulama.pdb
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.Form1.resources
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.csproj.GenerateResource.cache
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.dll
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\refint\KisiselBilgiDogrulama.dll
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.pdb
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\KisiselBilgiDogrulama.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\KisiselBilgiDogrulama\KisiselBilgiDogrulama\KisiselBilgiDogrulama\obj\Debug\net8.0-windows\ref\KisiselBilgiDogrulama.dll
